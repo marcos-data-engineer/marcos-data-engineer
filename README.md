@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello! I'm Marcos Vasconcellos de Andrade
 
-<!--
-**marcosvandrade/marcosvandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineer or tech enthusiast? Welcome! If networking is your goal, you're equally welcome here.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Home Office
+- 🌱 I’m currently learning Data Engineering and AI
+- 👯 I’m looking to collaborate on projects involving Data Engineering and AI
+- 💬 Ask me about Python, SQL, ETL, Linux, or anything tech-related!
+- ⚡ Fun fact: I'm transitioning my career to focus 100% on Data Engineering.
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
+
+## 🌍 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dataengineer-profile)
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC2eKfWDP91CW1R-3MSjOu_g])
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcosvandrade)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-2CA5E0?style=flat&logo=internet-explorer&logoColor=white)](https://dataengineer.net.br/)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvandrade&show_icons=true&theme=radical)
