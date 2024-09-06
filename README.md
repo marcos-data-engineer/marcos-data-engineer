@@ -25,7 +25,7 @@ Data engineer or tech enthusiast? Welcome! If networking is your goal, you're eq
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dataengineer-profile)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dataengineer.jobs)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCyNq6Jt-P3L2oPkV1qUtXaA])
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/UCyNq6Jt-P3L2oPkV1qUtXaA])
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcosvandrade)
   
 🌐 [Portfolio](https://dataengineer.net.br/)
