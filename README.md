@@ -8,7 +8,7 @@ Data engineer or tech enthusiast? Welcome! If networking is your goal, you're eq
 - 🌱 I’m currently learning Data Engineering and AI
 - 👯 I’m looking to collaborate on projects involving Data Engineering and AI
 - 💬 Ask me about Python, SQL, ETL, Linux, or anything tech-related!
-- ⚡ Fun fact: I'm transitioning my career to focus 100% on Data Engineering.
+- ⚡ Fun fact: I'm transitioning my career to focus 100% on Data Engineering and AI.
 
 ## 🛠️ Technologies & Tools
 
@@ -22,6 +22,6 @@ Data engineer or tech enthusiast? Welcome! If networking is your goal, you're eq
 ## 🌍 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dataengineer-profile)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC2eKfWDP91CW1R-3MSjOu_g])
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCyNq6Jt-P3L2oPkV1qUtXaA])
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcosvandrade)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-2CA5E0?style=flat&logo=internet-explorer&logoColor=white)](https://dataengineer.net.br/)
