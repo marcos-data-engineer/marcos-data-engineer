@@ -4,8 +4,6 @@ Data engineer or tech enthusiast? Welcome! If networking is your goal, you're eq
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Home Office
-- 🌱 I’m currently learning Data Engineering and AI
 - 👯 I’m looking to collaborate on projects involving Data Engineering and AI
 - 💬 Ask me about Python, SQL, ETL, Linux, or anything tech-related!
 - ⚡ Fun fact: I'm transitioning my career to focus 100% on Data Engineering and AI.
