@@ -1,14 +1,25 @@
-# 👋 Hello! I'm Marcos Vasconcellos de Andrade
+# 👋 Olá! Seja bem vindo! Me chamo Marcos Vasconcellos de Andrade.
 
-Data engineer or tech enthusiast? Welcome! If networking is your goal, you're equally welcome here.
+## 🚀 Sobre mim
 
-## 🚀 About Me
+👯 Meu interesse por tecnologia começou nos meados da década de 1990, quando tive meu primeiro contato com sistemas DOS e Linux. Ao longo dos anos, aprofundei meu conhecimento em várias distribuições, como CentOS, Debian e Ubuntu, atuando em administração de servidores Linux, redes e suporte a usuários até 2015.
 
-- 👯 I’m looking to collaborate on projects involving Data Engineering and AI
-- 💬 Ask me about Python, SQL, ETL, Linux, or anything tech-related!
-- ⚡ Fun fact: I'm transitioning my career to focus 100% on Data Engineering and AI.
+👯 Em 2020, concluí a graduação em Tecnologia em Sistemas para Internet no Instituto Federal de Brasília (IFB), onde adquiri proficiência em Java, Node.js, SQL e outras ferramentas de desenvolvimento.
 
-## 🛠️ Technologies & Tools
+👯 Após a graduação, meu interesse por dados e inteligência artificial me levou a uma pós-graduação em Engenharia e Arquitetura de Dados, com dupla certificação em Inteligência Artificial, concluída no final de 2024, na XP Educação. Durante essa especialização, explorei tecnologias como Apache Spark, Apache Airflow, Python, SQL, pipelines de dados, IA generativa e agentes de IA.
+
+👯 Atualmente, continuo me especializando por meio de cursos e bootcamps nas áreas de dados e IA. Também trabalho em um projeto pessoal que é um blog sobre IA (http://blog.dataengineer.net.br), um projeto open-source e sem custo com assuntos e tendências sobre Inteligência Artificial e seu impacto na sociedade.
+
+💬 Embora não esteja ativamente procurando por uma nova posição, estou aberto a considerar oportunidades de trabalho REMOTAS, preferencialmente. Tenho interesse especial nas áreas de dados e IA, mas também estou aberto a funções nas minhas áreas de atuação anteriores, como Linux por exemplo.
+
+⚡ Como hobby, gosto de estudar idiomas e acredito estar nos seguintes níveis:
+
+- Inglês e Espanhol: B1 
+- Francês e Italiano: A1
+
+Estou sempre aberto a conectar-me, trocar ideias e colaborar - especialmente se for algo interessante relacionado a IA ou dados.
+
+## 🛠️ Tecnologia & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -19,7 +30,7 @@ Data engineer or tech enthusiast? Welcome! If networking is your goal, you're eq
 
 🧠 Generative AI
 
-## 🌍 Let's Connect
+## 🌍 Vamos se conectar?
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-data-engineer)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dataengineer.jobs)
