@@ -4,6 +4,8 @@
 
 👯 Meu interesse por tecnologia começou nos meados da década de 1990, quando tive meu primeiro contato com sistemas DOS e Linux. Ao longo dos anos, aprofundei meu conhecimento em várias distribuições, como CentOS, Debian e Ubuntu, atuando em administração de servidores Linux, redes e suporte a usuários até 2015.
 
+👯 A partir de 2016, meu foco profissional se direcionou para a área de dados, onde desenvolvi expertise em ferramentas como Oracle SQL, Power BI, Pentaho e outras plataformas de análise e visualização de dados. Durante esse período, trabalhei na construção de soluções de business intelligence e tratamento de dados.
+
 👯 Em 2020, concluí a graduação em Tecnologia em Sistemas para Internet no Instituto Federal de Brasília (IFB), onde adquiri proficiência em Java, Node.js, SQL e outras ferramentas de desenvolvimento.
 
 👯 Após a graduação, meu interesse por dados e inteligência artificial me levou a uma pós-graduação em Engenharia e Arquitetura de Dados, com dupla certificação em Inteligência Artificial, concluída no final de 2024, na XP Educação. Durante essa especialização, explorei tecnologias como Apache Spark, Apache Airflow, Python, SQL, pipelines de dados, IA generativa e agentes de IA.
