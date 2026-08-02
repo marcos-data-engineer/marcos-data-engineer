@@ -1,26 +1,26 @@
-# 👋 Olá! Me chamo Marcos Vasconcellos de Andrade
+# 👋 Hi! I'm Marcos Vasconcellos de Andrade
 
 ### 🚀 Data & AI Engineer | Linux Specialist
 
-Especialista em Engenharia e Arquitetura de Dados com dupla certificação em Inteligência Artificial. Com um histórico sólido que vai desde a administração de infraestrutura Linux até a construção de soluções de Business Intelligence e Pipelines de Dados de alta escala.
+Data Engineering and Architecture Specialist with a dual certification in Artificial Intelligence. Solid background spanning from Linux infrastructure administration to building Business Intelligence solutions and large-scale Data Pipelines.
 
 ---
 
-## 📌 Destaques & Trajetória
+## 📌 Highlights & Background
 
-- 🐧 **Origem Tech & Linux (1990 - 2015):** Experiência prática em administração de servidores Linux (CentOS, Debian, Ubuntu), redes e infraestrutura.
-- 📊 **Business Intelligence & Dados (2016 - Presente):** Atuação no tratamento de dados e construção de soluções de BI utilizando Oracle SQL, Power BI, Pentaho e orquestração de pipelines.
-- 🎓 **Formação Acadêmica:** 
-  - Graduação em *Sistemas para Internet* (IFB, 2020).
-  - Pós-graduação em *Engenharia e Arquitetura de Dados com certificação em IA* (XP Educação, 2024).
-- 🤖 **IA Generativa & Agentes:** Produção de conteúdo open-source e artigos técnicos sobre tendências e impactos da IA no meu blog pessoal [blog.dataengineer.net.br](http://blog.dataengineer.net.br).
-- 💬 **Oportunidades:** Aberto a conexões, trocas de conhecimento e projetos (preferencialmente remotos) focados em Dados, IA ou Linux.
+- 🐧 **Tech Roots & Linux (1990 - 2015):** Hands-on experience in Linux server administration (CentOS, Debian, Ubuntu), networking, and infrastructure.
+- 📊 **Business Intelligence & Data (2016 - Present):** Working with data processing and building BI solutions using Oracle SQL, Power BI, Pentaho, and pipeline orchestration.
+- 🎓 **Education:** 
+  - Degree in *Internet Systems* (IFB, 2020).
+  - Postgraduate Degree in *Data Engineering & Architecture with AI Certification* (XP Educação, 2024).
+- 🤖 **Generative AI & Agents:** Creating open-source content and technical articles on AI trends and impacts on my personal blog [blog.dataengineer.net.br](http://blog.dataengineer.net.br).
+- 💬 **Opportunities:** Open to networking, knowledge sharing, and projects (preferably remote) focused on Data, AI, or Linux.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-### 📊 Engenharia de Dados & IA
+### 📊 Data Engineering & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -28,7 +28,7 @@ Especialista em Engenharia e Arquitetura de Dados com dupla certificação em In
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-7400B8?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💻 Infraestrutura, Backend & Outros
+### 💻 Infrastructure, Backend & Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,14 +36,14 @@ Especialista em Engenharia e Arquitetura de Dados com dupla certificação em In
 
 ---
 
-## 🌍 Vamos nos conectar?
+## 🌍 Let's Connect!
 
 - 💼 **LinkedIn:** [in/marcos-data-engineer](https://www.linkedin.com/in/marcos-data-engineer)
 - 🌐 **Portfolio:** [dataengineer.net.br](https://dataengineer.net.br/)
-- 📝 **Blog de IA:** [blog.dataengineer.net.br](http://blog.dataengineer.net.br)
+- 📝 **AI Blog:** [blog.dataengineer.net.br](http://blog.dataengineer.net.br)
 - 📷 **Instagram:** [@dataengineer.jobs](https://instagram.com/dataengineer.jobs)
-- 🎥 **YouTube:** [Canal de Conteúdo](https://www.youtube.com/channel/UCyNq6Jt-P3L2oPkV1qUtXaA)
+- 🎥 **YouTube:** [Content Channel](https://www.youtube.com/channel/UCyNq6Jt-P3L2oPkV1qUtXaA)
 
 ---
 
-⚡ **Idiomas:** Inglês (B1) | Espanhol (B1) | Francês (A1) | Italiano (A1)
+⚡ **Languages:** English (B1) | Spanish (B1) | French (A1) | Italian (A1)
