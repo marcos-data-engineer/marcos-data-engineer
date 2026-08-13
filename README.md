@@ -1,49 +1,52 @@
-# 👋 Hi! I'm Marcos Vasconcellos de Andrade
+# Hi! I'm Marcos Vasconcellos de Andrade 👋
 
-### 🚀 Data & AI Engineer | Linux Specialist
+### Tier 2 Technical Support Analyst | Linux Systems Specialist
 
-Data Engineering and Architecture Specialist with a dual certification in Artificial Intelligence. Solid background spanning from Linux infrastructure administration to building Business Intelligence solutions and large-scale Data Pipelines.
-
----
-
-## 📌 Highlights & Background
-
-- 🐧 **Tech Roots & Linux (1990 - 2015):** Hands-on experience in Linux server administration (CentOS, Debian, Ubuntu), networking, and infrastructure.
-- 📊 **Business Intelligence & Data (2016 - Present):** Working with data processing and building BI solutions using Oracle SQL, Power BI, Pentaho, and pipeline orchestration.
-- 🎓 **Education:** 
-  - Degree in *Internet Systems* (IFB, 2020).
-  - Postgraduate Degree in *Data Engineering & Architecture with AI Certification* (XP Educação, 2024).
-- 🤖 **Generative AI & Agents:** Creating open-source content and technical articles on AI trends and impacts on my personal blog [blog.dataengineer.net.br](http://blog.dataengineer.net.br).
-- 💬 **Opportunities:** Open to networking, knowledge sharing, and projects (preferably remote) focused on Data, AI, or Linux.
+I am an IT Infrastructure and L2/L3 Technical Support Analyst with over 25 years of hands-on experience managing high-availability Linux environments, enterprise networks, and system support. I bridge deep Linux system administration with modern automation, SQL diagnostics, and AI workflows.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technical Expertise
 
-### 📊 Data Engineering & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-7400B8?style=for-the-badge&logo=openai&logoColor=white)
+**Infrastructure & Linux Administration**  
+`Linux (Debian, Ubuntu, CentOS)` `Network Administration` `Troubleshooting & L2/L3 Support` `System Optimization` `Security & Firewalls`
 
-### 💻 Infrastructure, Backend & Others
+**Automation & Scripting**  
+`Bash / Shell Scripting` `Python` `System Automation` `Docker` `DataOps`
+
+**Data Diagnostics & AI (Technical Edge)**  
+`Oracle SQL` `Complex Query Optimization` `Power BI` `Pentaho ETL` `Generative AI & LLM Agents`
+
+---
+
+### 📈 Key Highlights & Results
+
+- 🐧 **Linux OS Innovation & Efficiency:** Developed and deployed a custom Linux Mint build (remaster), standardizing enterprise workstations and reducing setup and end-user support resolution times by **99%**.
+- 🌐 **Infrastructure Management:** Coordinated and ensured high availability of Linux servers and distributed network infrastructure across multiple national sites, guaranteeing resilience and operational stability.
+- 🗄️ **Advanced Diagnostics & SQL:** Built complex database queries, system monitoring scripts, and data pipelines to troubleshoot operational bottlenecks and deliver technical insights.
+- 🎓 **Education:** Degree in Internet Systems (IFB, 2020) | Postgraduate Degree in Data Engineering & Architecture with AI Certification (XP Educação, 2024).
+
+---
+
+### 💻 Technologies & Tools
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative_AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🌍 Let's Connect!
+### 🌐 Let's Connect!
 
-- 💼 **LinkedIn:** [in/marcos-data-engineer](https://www.linkedin.com/in/marcos-data-engineer)
-- 🌐 **Portfolio:** [dataengineer.net.br](https://dataengineer.net.br/)
-- 📝 **AI Blog:** [blog.dataengineer.net.br](http://blog.dataengineer.net.br)
-- 📷 **Instagram:** [@dataengineer.jobs](https://instagram.com/dataengineer.jobs)
-- 🎥 **YouTube:** [Content Channel](https://www.youtube.com/channel/UCyNq6Jt-P3L2oPkV1qUtXaA)
-
----
-
-⚡ **Languages:** English (B1) | Spanish (B1) | French (A1) | Italian (A1)
+- 💼 **LinkedIn:** [in/marcos-data-engineer](https://linkedin.com/in/marcos-data-engineer)
+- 🌐 **Portfolio:** [dataengineer.net.br](https://dataengineer.net.br)
+- 📝 **AI & Tech Blog:** [blog.dataengineer.net.br](https://blog.dataengineer.net.br)
+- 📧 **Email:** [contact@dataengineer.net.br](mailto:contact@dataengineer.net.br)
+- 📍 **Location:** Brasília, DF - Brazil (Open to Remote Roles)
