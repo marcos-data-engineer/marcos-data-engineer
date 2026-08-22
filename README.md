@@ -45,8 +45,5 @@ I am an IT Infrastructure and L2/L3 Technical Support Analyst with over 25 years
 
 ### 🌐 Let's Connect!
 
-- 💼 **LinkedIn:** [in/marcos-data-engineer](https://linkedin.com/in/marcos-data-engineer)
-- 🌐 **Portfolio:** [dataengineer.net.br](https://dataengineer.net.br)
-- 📝 **AI & Tech Blog:** [blog.dataengineer.net.br](https://blog.dataengineer.net.br)
-- 📧 **Email:** [contact@dataengineer.net.br](mailto:contact@dataengineer.net.br)
+- 📝 **AI & Tech Blog:** [https://blog.dataengineer.net.br](https://marcos-data-engineer.github.io/blog/))
 - 📍 **Location:** Brasília, DF - Brazil (Open to Remote Roles)
