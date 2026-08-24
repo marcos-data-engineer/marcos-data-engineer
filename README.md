@@ -29,8 +29,8 @@ I am an IT Infrastructure and L2/L3 Technical Support Analyst with over 25 years
 
 ### 🎓 Education
 
-- 📚 **Postgraduate Specialization in Data Engineering & Architecture with AI** - XP Educação (XPe-IGTI) (2024)[cite: 1].
-- 🎓 **Bachelor of Technology in Internet Systems Engineering** - Federal Institute of Brasília (IFB) (2020)[cite: 1].
+- 📚 **Postgraduate Specialization in Data Engineering & Architecture with AI** - XP Educação (XPe-IGTI) (2024).
+- 🎓 **Graduation in Internet Systems Technology** - Federal Institute of Brasília (IFB) (2020).
 
 ---
 
