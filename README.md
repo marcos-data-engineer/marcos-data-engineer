@@ -24,7 +24,13 @@ I am an IT Infrastructure and L2/L3 Technical Support Analyst with over 25 years
 - 🐧 **Linux OS Innovation & Efficiency:** Developed and deployed a custom Linux Mint build (remaster), standardizing enterprise workstations and reducing setup and end-user support resolution times by **99%**.
 - 🌐 **Infrastructure Management:** Coordinated and ensured high availability of Linux servers and distributed network infrastructure across multiple national sites, guaranteeing resilience and operational stability.
 - 🗄️ **Advanced Diagnostics & SQL:** Built complex database queries, system monitoring scripts, and data pipelines to troubleshoot operational bottlenecks and deliver technical insights.
-- 🎓 **Education:** Degree in Internet Systems (IFB, 2020) | Postgraduate Degree in Data Engineering & Architecture with AI Certification (XP Educação, 2024).
+
+---
+
+### 🎓 Education
+
+- 📚 **Postgraduate Specialization in Data Engineering & Architecture with AI** - XP Educação (XPe-IGTI) (2024)[cite: 1].
+- 🎓 **Bachelor of Technology in Internet Systems Engineering** - Federal Institute of Brasília (IFB) (2020)[cite: 1].
 
 ---
 
