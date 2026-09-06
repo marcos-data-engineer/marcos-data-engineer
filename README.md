@@ -1,39 +1,42 @@
-# Hi! I'm Marcos Vasconcellos de Andrade 👋
+# Hi there, I'm Marcos Vasconcellos de Andrade 👋
 
-**L2 Technical Support Analyst | Linux Infrastructure & Automation Specialist**
+### Senior Linux Infrastructure, Automation & DevOps Specialist
 
-IT Infrastructure and Tier 2/3 Technical Support Analyst with over 25 years of hands-on experience managing high-availability Linux environments, enterprise networks, and system automation. I combine deep Linux system administration expertise with modern automation (Bash/Python), SQL diagnostics, and Generative AI workflows. Currently focusing on personal technical projects and available exclusively for **100% Remote** opportunities.
+I am an IT professional with **10+ years of technical experience** specializing in **Linux Infrastructure (Debian, Ubuntu, CentOS)**, enterprise networking, process automation (**Bash & Python**), system observability, and **Oracle SQL diagnostics**. 
 
----
-
-### 🛠️ Technical Competencies
-
-* **Technical Support & Linux Infrastructure:** Tier 2/3 Support, Incident Troubleshooting, Linux Administration (Debian, Ubuntu, CentOS), Network Management, Firewalls & Security.
-* **Automation & Scripting:** Bash/Shell Scripting, Python, System Optimization, Docker, System Observability.
-* **Databases & Data Diagnostics:** Advanced Oracle SQL Query Optimization, Power BI, Pentaho ETL, Data Ingestion & Diagnostics.
-* **AI & Emerging Technologies:** Generative AI, AI Agents, LLM Integration, Prompt Engineering.
+I hold a **Postgraduate Degree in Data Engineering & Architecture with AI** (XP Educação) and integrate **Generative AI & AI Agents** into technical workflows to automate operations and optimize system reliability.
 
 ---
 
-### 🚀 Key Technical Highlights
+### 🚀 Technical Core Stack
 
-* **Linux OS Remaster & Standardization:** Developed and deployed a custom Linux Mint distribution, standardizing enterprise workstations and reducing setup/ticket resolution time by up to 99%.
-* **Enterprise Infrastructure Management:** Managed distributed Linux server environments and nationwide network sites ensuring high availability, security, and operational resilience.
-* **Advanced Diagnostics & SQL Engineering:** Built complex database scripts, monitoring tools, and pipelines to resolve operational performance bottlenecks.
+- **Operating Systems & Infra:** Linux (Debian, Ubuntu, CentOS), Bash/Shell Scripting, Server Hardening, Firewalls, Docker.
+- **Automation & Programming:** Python, System Observability, Task Automation, REST APIs.
+- **Databases & Data Analytics:** Advanced Oracle SQL, Pentaho ETL, Power BI, Data Ingestion.
+- **Artificial Intelligence:** Generative AI, AI Agents, LLM Integrations, Prompt Engineering.
+
+---
+
+### 🛠️ Featured Repositories & Portfolio
+
+- 🐧 **[sysadmin-linux-scripts](https://github.com/marcos-data-engineer/sysadmin-linux-scripts):** Collection of Bash and Python scripts for Linux administration, server monitoring, automated backups, and diagnostics.
+- 🤖 **[AI Agents & Data Pipeline Projects](https://github.com/marcos-data-engineer):** Repositories demonstrating data architecture, LLM API integrations, and operational automation.
+- 📝 **[Technical Tech & AI Blog](https://marcos-data-engineer.github.io/blog/):** In-depth articles and tutorials on Linux automation, Generative AI, and system architecture.
 
 ---
 
 ### 🎓 Education & Certifications
 
-* **Postgraduate Degree in Data Engineering & Architecture with AI** – XP Educação (2024)
-* **Bachelor's Degree in Internet Systems Technology** – Federal Institute of Brasília (IFB) (2020)
-* **Certifications:** AI Data Engineer Expert (2025), AWS Generative AI Bootcamp (2024), Python for Data Science (2023), Oracle SQL & PL/SQL Developer (2018).
+- **Postgraduate Degree in Data Engineering & Architecture with AI** – XP Educação (2024)
+- **Bachelor's Degree in Internet Systems Technology** – Federal Institute of Brasília (IFB) (2020)
+- **AI Data Engineer Expert** – XP Educação (2025)
+- **AWS Generative AI Bootcamp** (2024)
+- **Oracle SQL & PL/SQL Developer Track** (2018)
 
 ---
 
-### 🌐 Connect & Portfolio
+### 📫 Connect with Me
 
-* **Email:** vascorj2006@gmail.com
-* **Tech & AI Blog:** [marcos-data-engineer.github.io/blog](https://marcos-data-engineer.github.io/blog/)
-* **LinkedIn:** [linkedin.com/in/marcos-vasconcellos-de-andrade-098b07297](https://linkedin.com/in/marcos-vasconcellos-de-andrade-098b07297)
-* **Linux Automation Scripts:** [sysadmin-linux-scripts](https://github.com/marcos-data-engineer/sysadmin-linux-scripts)
+- **Email:** [vascorj2006@gmail.com](mailto:vascorj2006@gmail.com)
+- **LinkedIn:** [linkedin.com/in/marcos-vasconcellos-de-andrade-098b07297](https://linkedin.com/in/marcos-vasconcellos-de-andrade-098b07297)
+- **Portfolio & Blog:** [marcos-data-engineer.github.io/blog](https://marcos-data-engineer.github.io/blog/)
