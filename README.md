@@ -4,7 +4,7 @@
 
 Profissional de tecnologia com mais de 10 anos de experiência em infraestrutura Linux, administração de sistemas, redes corporativas, suporte técnico **N2/N3** e automação de processos com **Bash** e **Python**.
 
-Sou pós-graduado em **Engenharia e Arquitetura de Dados com IA** pela XP Educação e tecnólogo em **Sistemas para Internet** pelo Instituto Federal de Brasília (IFB). Atualmente, foco em ambientes de **IA privada** com Ollama, automação de fluxos de trabalho com **n8n auto-hospedado** e pipelines de dados automatizados, com atenção à conformidade com a **LGPD**.
+Sou pós-graduado em **Engenharia e Arquitetura de Dados com IA** pela XP Educação e tecnólogo em **Sistemas para Internet** pelo Instituto Federal de Brasília (IFB). Atualmente, foco em ambientes de **IA privada** com Ollama, automação de fluxos de trabalho com **n8n** e pipelines de dados automatizados, com atenção à conformidade com a **LGPD**.
 
 ![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu%2C%20Fedora-f5c211?style=for-the-badge&logo=linux&logoColor=white&labelColor=555555)
 ![Docker](https://img.shields.io/badge/Docker-Contêineres-2496ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555)
