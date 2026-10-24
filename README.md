@@ -1,22 +1,57 @@
-# Olá, sou Marcos Vasconcellos de Andrade 👋
+# Marcos Vasconcellos de Andrade
 
-**Especialista em infraestrutura Linux e automação | Consultor de TI**
-
-Profissional de tecnologia com mais de 10 anos de experiência em infraestrutura Linux, administração de sistemas, redes corporativas, suporte técnico **N2/N3** e automação de processos com **Bash** e **Python**.
-
-Sou pós-graduado em **Engenharia e Arquitetura de Dados com IA** pela XP Educação e tecnólogo em **Sistemas para Internet** pelo Instituto Federal de Brasília (IFB). Atualmente, foco em ambientes de **IA privada** com Ollama, automação de fluxos de trabalho com **n8n** e pipelines de dados automatizados, com atenção à conformidade com a **LGPD**.
-
-![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu%2C%20Fedora-f5c211?style=for-the-badge&logo=linux&logoColor=white&labelColor=555555)
-![Docker](https://img.shields.io/badge/Docker-Contêineres-2496ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555)
-![n8n](https://img.shields.io/badge/n8n-Auto--Hospedado-ff6d5a?style=for-the-badge&logo=n8n&logoColor=white&labelColor=555555)
-![Ollama](https://img.shields.io/badge/Ollama-IA%20Privada-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=555555)
-![Python](https://img.shields.io/badge/Python-Automação-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=555555)
+**Consultor de TI & Especialista em Soluções Autônomas**  
+*Infraestrutura Linux | Engenharia de Dados | Automação (n8n/Python) & IA Privada (Ollama)*
 
 ---
 
-## 🛠️ Competências técnicas
+### 💡 Sobre Mim
 
-- **Infraestrutura e Linux:** administração de sistemas (Debian, Ubuntu e CentOS), fortalecimento da segurança de servidores (hardening), firewalls, Docker e observabilidade de sistemas.
+- 🔭 **Atuação:** Consultoria técnica B2B em infraestrutura Linux, automação de fluxos operacionais e implantação de ecossistemas de IA Privada (On-Premise) em conformidade com a LGPD/GDPR.
+- ⚡ **Experiência:** +10 anos em ambientes críticos do setor público e privado, gestão de suporte N2/N3, hardening de servidores e otimização de bancos de dados Oracle SQL.
+- 🎓 **Formação:** Pós-Graduado em Engenharia e Arquitetura de Dados com IA (XP Educação) e Graduado em Sistemas para Internet (IFB).
+
+---
+
+### 🛠️ Matriz de Competências Técnicas
+
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Infraestrutura & Linux** | Debian, Ubuntu, CentOS, Fedora, Hardening, Systemd, Firewalls, Redes Corporativas, Suporte N2/N3 |
+| **Automação & IA Privada** | n8n (Self-Hosted), Docker, Python, Shell/Bash Scripting, Ollama, Open WebUI, Agentes de IA |
+| **Dados & Analítica** | Oracle SQL Avançado (Performance Tuning), Pentaho ETL, Power BI, Modelagem Relacional |
+| **Governança & Práticas** | ITIL (Gestão de Incidentes), SLAs, Capacity Planning, IT Asset Management, Conformidade LGPD/GDPR |
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| ⚡ **[n8n-workflows](https://github.com/marcos-data-engineer/n8n-workflows)** | Pipelines autônomos de automação, orquestração de APIs e agentes de IA locais. | `n8n` `Docker` `Ollama` `Python` |
+| 🔄 **[gdrive-sync](https://github.com/marcos-data-engineer/gdrive-sync)** | Sincronização bidirecional e backup resiliente em Linux com automação por daemon. | `Bash` `systemd` `rclone` `inotify` |
+| 🌱 **[CO2-Calculator](https://github.com/marcos-data-engineer/CO2-Calculator)** | Aplicação web reativa para cálculo e análise ambiental de pegada de carbono. | `Vue.js 3` `Vite` `REST APIs` |
+| 📝 **[Beyond AI Code](https://marcos-data-engineer.github.io/blog/)** | Hub de artigos técnicos e documentação sobre Linux, Engenharia de Dados e IA Privada. | `Jekyll` `GitHub Pages` `Markdown` |
+
+---
+
+### 🎓 Formação & Certificações
+
+- **Pós-Graduação em Engenharia e Arquitetura de Dados com IA** — XP Educação (2024)
+- **Graduação em Tecnologia em Sistemas para Internet** — Instituto Federal de Brasília (2020)
+- **AI Data Engineer Expert** — XP Educação (2025)
+- **AWS Generative AI Bootcamp** — AWS (2024)
+- **Formação Oracle SQL & PL/SQL Developer** — Oracle (2018)
+
+---
+
+### 📫 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-data-engineer)
+[![Blog](https://img.shields.io/badge/Blog_Técnico-121011?style=for-the-badge&logo=github&logoColor=white)](https://marcos-data-engineer.github.io/blog/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.marcos.dataengineer@gmail.com)
+
+sistemas.
 - **Automação e scripts:** Shell, Bash, Python, n8n auto-hospedado, webhooks e APIs REST.
 - **Bancos de dados e análise:** Oracle SQL avançado (diagnóstico e otimização de consultas), Pentaho ETL, Power BI e ingestão de dados.
 - **Inteligência artificial:** IA privada (on-premises), modelos de linguagem locais (LLMs) com Ollama, Open WebUI, agentes de IA e engenharia de prompts.
