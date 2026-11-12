@@ -28,8 +28,10 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| ⚡ **[n8n-workflows](https://github.com/marcos-data-engineer/n8n-workflows)** | Pipelines autônomos de automação, orquestração de APIs e agentes de IA locais. | `n8n` `Docker` `Ollama` `Python` |
-| 🔄 **[gdrive-sync](https://github.com/marcos-data-engineer/gdrive-sync)** | Sincronização bidirecional e backup resiliente em Linux com automação por daemon. | `Bash` `systemd` `rclone` `inotify` |
+| 🖥️ **[homelab-ai-cluster](https://github.com/marcos-data-engineer/homelab-ai-cluster)** | Arquitetura distribuída de Homelab com IA Privada On-Premise (Ollama multi-nó), KVM Wayland e áudio PipeWire. | `Fedora` `Ollama` `Deskflow` `PipeWire` `Snapcast` `systemd` |
+| 📊 **[airflow-XPe](https://github.com/marcos-data-engineer/airflow-XPe)** | Pipeline analítico com Apache Airflow, PySpark e arquitetura Medalhão (Bronze/Silver/Gold). | `Apache Airflow` `PySpark` `Python` `Docker` |
+| ⚡ **[n8n-workflows](https://github.com/marcos-data-engineer/n8n-workflows)** | Pipelines autônomos de automação, orquestração de APIs e agentes de IA locais (LGPD). | `n8n` `Docker` `Ollama` `Python` |
+| 🔄 **[gdrive-sync](https://github.com/marcos-data-engineer/gdrive-sync)** | Sincronização bidirecional e backup resiliente em Linux com automação por daemon e CLI. | `Bash` `systemd` `rclone` `inotify` |
 | 🌱 **[CO2-Calculator](https://github.com/marcos-data-engineer/CO2-Calculator)** | Aplicação web reativa para cálculo e análise ambiental de pegada de carbono. | `Vue.js 3` `Vite` `REST APIs` |
 | 📝 **[Beyond AI Code](https://marcos-data-engineer.github.io/blog/)** | Hub de artigos técnicos e documentação sobre Linux, Engenharia de Dados e IA Privada. | `Jekyll` `GitHub Pages` `Markdown` |
 
